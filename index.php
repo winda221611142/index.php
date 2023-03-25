@@ -10,7 +10,7 @@
     <h1>Web Pencarian Film</h1>
     <form method="post" action="index.php">
         <input type="text" name="judul"></input>
-        <input type="submit" value="Pencarian" name="cari"></input>
+        <input type="submit" value="semoga beruntung" name="cari"></input>
     </form>
     
     <?php
